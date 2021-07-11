@@ -1,3 +1,3 @@
-# Face-mask-detection
+# Face Mask Detection
 
-## Made using Tensorflow, Keras, OpenCV library
+## Detecting Face Masks using Python,Tensorflow, Keras, OpenCV library on live video stream.
